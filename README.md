@@ -22,7 +22,9 @@ After you have successfully logged in, perform the following steps to obtain you
 ![Profile](https://i.ibb.co/ncY2ycq/2.png)
 
 + In the "Profile" section, click on "Show/Hide API Key" to show your API key.
+  
 ![Show/Hide API Key](https://i.ibb.co/0c2qKkv/3.png)
+
 + Copy the API Key. 
 
 Save it somewhere safe for easier access. Don’t share it with anyone else!
